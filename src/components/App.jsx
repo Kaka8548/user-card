@@ -1,7 +1,7 @@
 import UserCard from './userCard/UserCard';
 import FormatNumber from 'utils/FormatNumber';
 import { useState, useEffect } from 'react';
-import { UsersList } from 'App.styled';
+import { UsersList } from 'components/App.styled';
 import users from '../users/users.json';
 
 export const App = () => {
