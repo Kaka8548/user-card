@@ -33,7 +33,9 @@ export const InnerFrame = styled.div`
 `;
 
 export const Image = styled.img`
+display: block;
 width: 100%
 height: auto;
-  z-index: 1;
+z-index: 1;
+border-radius: 50%;
 `;

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 18347,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+    "user": "cat",
+    "tweets": 101,
+    "followers": 874208,
+    "isFollowing": false
+  },
+
+  {
+    "id": 283,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+    "user": "bird",
+    "tweets": 3242,
+    "followers": 87435208,
+    "isFollowing": false
+  },
+
+  {
+    "id": 28883,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
+    "user": "dog",
+    "tweets": 324275,
+    "followers": 87125208,
+    "isFollowing": false
+  },
+
+  {
+    "id": 123,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
+    "user": "parrot",
+    "tweets": 48309,
+    "followers": 83,
+    "isFollowing": false
+  }
+]

@@ -4,7 +4,6 @@ import backgroundImageDouble from '../../images/picture-2x.png';
 
 export const Card = styled.article`
   position: relative;
-  margin: 0 auto;
   max-width: 454px;
   max-height: 547px;
   background: linear-gradient(
